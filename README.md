@@ -1,3 +1,4 @@
-# react-sokoban
+# React Sokoban
+super simple version of the classic game. Just for fun.
 
-in process...
+DEV in process...
