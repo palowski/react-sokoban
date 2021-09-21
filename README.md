@@ -1,5 +1,5 @@
 # React Sokoban
-super simple (160 lines of code) version of the classic game. Just for fun. Only 2 levels.
+super simple (160 lines of code) version of the classic game. 2 levels included.
 
 ## Scripts
 
